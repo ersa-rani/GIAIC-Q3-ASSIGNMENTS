@@ -79,7 +79,7 @@ You gained 10 XP!
 🎨 Build GUI version using Tkinter or PyQt
 
 🧑‍💻 Author
-Name: Ersa Rani (You can add your name here)
+Name: Ersa Rani 
 
 Project Type: OOP Assignment
 
